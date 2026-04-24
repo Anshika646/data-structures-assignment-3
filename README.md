@@ -1,6 +1,6 @@
-# data-structures-assignment-3
+# data-structures
 
-#   BUILDING DATA CLASS BY ANSHIKA 24101420044
+#   BUILDING DATA CLASS BY ANSHIKA 
 
 
 class Building:
